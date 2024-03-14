@@ -5,12 +5,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/craigary/nobelium.git"
+    "url": "https://github.com/Hephaestus0x/nobelium.git"
   },
   "author": {
-    "name": "Craig Hart",
-    "email": "i@craigary.net",
-    "url": "http://craigary.net"
+    "name": "Hephaestus0e",
+    "email": "0xober@proton.me"
   },
   "scripts": {
     "dev": "next dev",
